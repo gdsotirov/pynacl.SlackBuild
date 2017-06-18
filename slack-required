@@ -1,0 +1,4 @@
+cffi >= 1.9.1
+glibc-solibs >= 2.23
+python >- 2.7
+six >= 1.10.0
